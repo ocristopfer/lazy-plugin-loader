@@ -1,0 +1,32 @@
+{
+  "name": "lazy-plugin-loader",
+  "version": "1.0.0",
+  "description": "Sistema genérico de lazy loading para plugins JavaScript",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "build:watch": "rollup -c -w",
+    "dev": "rollup -c -w",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "lazy-loading",
+    "plugins",
+    "javascript",
+    "dynamic-imports",
+    "module-loader"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^4.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@rollup/plugin-commonjs": "^25.0.0",
+    "@rollup/plugin-terser": "^0.4.0"
+  }
+}
