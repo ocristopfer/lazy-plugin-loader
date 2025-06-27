@@ -454,13 +454,13 @@ Contribuições são bem-vindas! Por favor:
 
 ## 📄 Licença
 
-MIT © [Seu Nome](https://github.com/seu-usuario)
+MIT © [Seu Nome](https://github.com/ocristopfer)
 
 ## 🙋‍♂️ Suporte
 
-- 📧 Email: seu-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/seu-usuario/lazy-plugin-loader/issues)
-- 💬 Discussões: [GitHub Discussions](https://github.com/seu-usuario/lazy-plugin-loader/discussions)
+- 📧 Email: ocristopfer@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/ocristopfer/lazy-plugin-loader/issues)
+- 💬 Discussões: [GitHub Discussions](https://github.com/ocristopfer/lazy-plugin-loader/discussions)
 
 ---
 
